@@ -1,0 +1,235 @@
+🧭 1. SITE OVERVIEW
+
+Website Name: Almstkshf (Al Mustakshif AI)
+Primary Domain: almstkshf.com
+
+Subdomains / Related URLs:
+
+blog.almstkshf.com
+
+chatgpt.com/g/g-68297975a3548191a8530cb64b22aaa3-almstkshf
+
+linkedin.com/company/almstkshf
+Locations:
+
+Innovation Hub, DIFC, Dubai
+
+Twofour54, Abu Dhabi
+
+Language Support: English / Arabic (bilingual UI)
+Audience: Government leaders, communication professionals, PR specialists, media analysts.
+Purpose: AI-powered media monitoring, sentiment analysis, and public opinion intelligence.
+
+🧩 2. PAGE CONTENT STRUCTURE (TEXTUAL ELEMENTS)
+🏠 Home / Landing Page
+
+Hero section with slogan:
+“The Region’s Leading AI-Powered Platform for Media Monitoring, Real-Time Sentiment, and Consumer Intelligence.”
+
+CTA buttons: Demo, Learn More, Request Demo
+
+Highlights:
+
+20 years experience in media monitoring
+
+AI-driven insights from 2700+ sources
+
+78–82% sentiment accuracy
+
+“Built to understand Arabic”
+
+💡 About / Company
+
+Mission: Empower organizations with timely, accurate media intelligence.
+
+Values: Integrity, Rigor, Innovation, Accuracy, Customer-focus, Collaboration.
+
+Technology Stack: AI + Human expertise, NLP, ML, OSINT.
+
+Infrastructure: Scalable, cloud-based platform with real-time dashboards.
+
+🧠 Products & Features (Media Pulse)
+
+Core Capabilities:
+
+Comprehensive media tracking (news, social media, broadcast, blogs, forums, video).
+
+Sentiment analysis (positive / negative / neutral).
+
+Trend and topic prediction.
+
+Named Entity Recognition.
+
+Customizable KPI dashboards.
+
+GEM 2.1 KPI integration for government excellence.
+
+Functional Modules:
+
+Smart Media Monitoring
+
+Manage all media sources from one place.
+
+Track performance and transparency.
+
+Sentimental Analysis
+
+Multilingual sentiment engine with context sensitivity.
+
+Social Media Intelligence (SM Intelligence)
+
+Detect crises and predict trends.
+
+Media Center
+
+Integrates with 2700+ global and regional sources.
+
+Proactive Monitoring
+
+AI-driven early warning and risk alerts.
+
+SM Management
+
+Evaluate media reach and campaign impact.
+
+Analytics and Insights
+
+Visual dashboards and data correlation.
+
+Publish & Schedule Tool
+
+Centralized scheduling, post-performance tracking.
+
+Topic & Content Analyzer
+
+AI-driven theme detection and content evaluation.
+
+AI & Automation Functions:
+
+NLP-based text and tone recognition
+
+Automated classification
+
+Hashtag & trend tracking
+
+Demographic analytics
+
+Video/TV content analysis
+
+Real-time keyword alerts
+
+Automated reporting & dashboards
+
+🏛️ KPI & GEM 2.1 Integration
+
+KPIs aligned to:
+
+Government Communication
+
+Innovation
+
+Smart Empowerment
+
+Data & Knowledge
+
+Quantitative + Qualitative metrics (e.g., Media Sentiment Index)
+
+🔗 Integration (API)
+
+RESTful API integration for custom dashboards.
+
+Secure key-based authentication.
+
+Sandbox testing environment.
+
+Endpoints for analytics and sentiment data.
+
+Support: rased@almstkshf.com
+
+API Docs Location: “API & Integrations” tab on dashboard.
+
+👨‍💼 Team & Leadership
+
+Tamer Younes — CEO
+
+Rami Kamel — COO & Co-founder
+
+Tamer Gad — PR & AI Consultant
+
+📩 Contact / Interaction
+
+Request Demo
+
+Subscribe to Newsletter
+
+Get in Touch
+
+Support, Downloads, Pricing
+
+Email: rased@almstkshf.com
+
+Social: LinkedIn
+
+🧱 3. SITE MAP (Inferred)
+Section	Subpages / Functions
+Home	Overview, Demo CTA
+About Us	Mission, Vision, Values, Team
+Services	Media Monitoring, Social Listening, Web Monitoring
+Products	Media Pulse, Government Tools, AI Assistant
+Features	Analytics, Reports, Alerts, API Integration
+Pricing	Plans, Custom Packages
+Blog	News, AI Insights, Predictive Analytics
+Downloads	Resources, Case Studies
+Support	Contact, Integration Help, Documentation
+Newsletter	Subscription
+Login / Dashboard	Platform Access
+🧩 4. KEY FEATURES SUMMARY
+Feature	Description
+Real-Time Monitoring	Continuous AI-driven feed from 2700+ media sources
+Sentiment Analysis	Multilingual contextual sentiment detection
+AI Content Generation	Built-in writing assistant for media summaries
+Trend Prediction	Machine Learning-driven topic evolution analysis
+API Integration	RESTful API with documentation
+GEM 2.1 KPIs	Institutional performance evaluation
+Alerts System	Real-time keyword and risk notifications
+Reports & Dashboards	Custom visual analytics and KPI tracking
+Scheduling Tool	Unified media content calendar
+Data Security	Enterprise-grade protection for government clients
+🎨 5. CSS / DESIGN SYSTEM (INFERRED)
+Element	Possible Styling
+Color Scheme	Blue-gray primary (#1e3a8a), White background, Light gray UI panels
+Typography	Sans-serif, likely Open Sans / Inter
+Layout	Grid-based responsive layout, 2-column feature sections
+Buttons	Rounded corners, gradient hover states
+Cards	Shadowed, minimalistic analytics cards
+Icons	SVG-based or Lucide/Feather icons
+Animation	Smooth fade-in (scroll-based), counters for stats (80%, 78%, 82%)
+Header/Footer	Fixed header with sticky CTA; dark footer with contact links
+⚙️ 6. METADATA (Extracted / Inferred)
+Field	Example
+Title	AlMstkshf – AI Media Monitoring & Intelligence Platform
+Description	AI-powered platform for real-time media tracking, sentiment analysis, and government communication intelligence.
+Keywords	media monitoring, sentiment analysis, Arabic AI, GEM 2.1, OSINT, public relations, Almstkshf, AI media intelligence
+Canonical URL	https://almstkshf.com
+
+Language	en / ar
+Author	AlMstkshf Co
+Copyright	© 2025 Almstkshf Co – Innovation Hub DIFC, Dubai
+OpenGraph / LinkedIn Metadata	og:title, og:description, og:image for social media previews
+📦 7. FUNCTIONAL COMPONENTS (Website/Platform)
+
+Dashboard UI
+
+Analytics Visualizations
+
+AI Content Generator
+
+API & Integration Manager
+
+User Authentication / Role Management
+
+Real-time Alert Engine
+
+Data Warehouse Backend
+
+Newsletter System
